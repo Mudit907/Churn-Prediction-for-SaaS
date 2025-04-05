@@ -9,8 +9,11 @@ We have built a predictive ML model using the Telco Customer Churn dataset, whic
 
 SaaS companies often face challenges in customer retention due to:
 Lack of understanding of customer behavior
+
 No early warning system for possible churn
+
 Revenue loss due to unexpected customer exits
+
 The aim of this project is to develop an intelligent churn prediction system that can analyze customer data and provide early churn risk alerts.
 
 **Dataset Used:**
