@@ -20,10 +20,15 @@ The aim of this project is to develop an intelligent churn prediction system tha
 **Dataset Used:**
 
 Dataset: WA_Fn-UseC_-Telco-Customer-Churn.csv
+
 Contains fields like:
+
 Demographics (Gender, SeniorCitizen, Dependents, Partner)
+
 Account Info (Tenure, Contract, Payment Method, Total Charges)
+
 Service Usage (Internet Service, Online Security, Streaming TV, etc.)
+
 Target Variable: Churn (Yes / No)
 
 
