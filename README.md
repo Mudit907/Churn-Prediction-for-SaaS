@@ -8,6 +8,7 @@ We have built a predictive ML model using the Telco Customer Churn dataset, whic
 **Problem Statement:**
 
 SaaS companies often face challenges in customer retention due to:
+
 Lack of understanding of customer behavior
 
 No early warning system for possible churn
